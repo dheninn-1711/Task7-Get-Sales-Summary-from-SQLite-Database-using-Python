@@ -1,5 +1,10 @@
 # 📊 SQL Sales Data Analysis
 
+## 🎯 Objective
+Use `SQL` inside Python to pull simple sales info (like total quantity sold, total revenue), and display it using basic print statements and a simple bar chart.
+
+---
+
 ## 🧾 Overview
 
 This project demonstrates how to use **SQLite** for managing sales data, perform data analysis using **SQL queries**, and visualize the results using **Python libraries** such as **Pandas** and **Matplotlib**.
@@ -7,7 +12,7 @@ This project demonstrates how to use **SQLite** for managing sales data, perform
 The notebook includes:
 - Creating an SQLite database
 - Inserting sample sales data
-- Querying the data using SQL
+- Querying the data using `SQL`
 - Generating visualizations for analysis
 
 ---
